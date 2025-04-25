@@ -11,6 +11,15 @@ export default {
   },
 };
 
+export const myStory = {
+  parameters: {
+    design: {
+      type: "figma",
+      url: "https://www.figma.com/design/AB278C4qHSOF9toyPk0t2O/Storybook?node-id=0-1",
+    },
+  },
+};
+
 export const LoggedOut = {};
 
 // More on component testing: https://storybook.js.org/docs/writing-tests/component-testing

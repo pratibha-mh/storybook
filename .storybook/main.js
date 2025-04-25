@@ -12,7 +12,7 @@ const config = {
     "@storybook/addon-onboarding",
     "@storybook/addon-interactions",
     "@storybook/addon-designs",
-    "@chromatic-com/storybook"
+    "@chromatic-com/storybook"    
   ],
   "framework": {
     "name": "@storybook/react-webpack5",
